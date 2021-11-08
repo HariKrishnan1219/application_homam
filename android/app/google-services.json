@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625327413821",
+    "project_id": "homam-b3e0a",
+    "storage_bucket": "homam-b3e0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625327413821:android:2eea39334e33612bf8e854",
+        "android_client_info": {
+          "package_name": "com.example.homam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625327413821-gv6n6ra3mtlbegfvudvn0u9gobnfboiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARIZd6GuNOWAD1Wj_9GDKUX1BlumkzGmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625327413821-gv6n6ra3mtlbegfvudvn0u9gobnfboiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
